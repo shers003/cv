@@ -1,0 +1,94 @@
+body{
+  background-color:  #0f4c75;
+  margin:0;
+}
+p{
+  font-family: Impact,fantasy;
+  font-size: 30px;
+  color: #1b262c;
+}
+
+hr{
+
+  border-style: dotted none none;
+  border-width: 7px;
+  border-color: #bbe1fa;
+  width: 5%;
+}
+h1{
+  font-style: normal;
+  background-color: #ffa41b;
+  font-family:Impact,fantasy ;
+  font-size: 160px;
+  color:  #3282b8;
+
+}
+h3{
+  color:  #20b2aa;
+  font-size: 50px;
+}
+ul,ol{
+  font-family: Impact,fantasy;
+  font-size: 30px;
+  color: #1b262c;
+}
+table{
+  font-family: Impact,fantasy;
+  font-size: 30px;
+  color: #1b262c;
+}
+a{
+  font-family: Impact,fantasy;
+  font-size: 30px;
+  color: #400082;
+}
+form{
+  font-family: Impact,fantasy;
+  font-size: 30px;
+  color: #1b262c;
+}
+.table1{
+  border-style: solid;
+  border-color: #3b6978;
+
+}
+.border{
+  background-color: grey;
+  position: relative;
+  width: 600px;
+  height:800px;
+
+}
+.blue{
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position:absolute;
+
+
+}
+.green{
+  background-color: green;
+  top:200px;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: absolute;
+  left:200px;
+}
+.yellow{
+  background-color: yellow;
+  top: 400px;
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  position: absolute;
+  left:400px;
+}
+.l{
+  top: 50px;
+  left:80px;
+  position:absolute;
+
+}
